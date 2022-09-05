@@ -1,0 +1,18 @@
+{
+  "name": "sowell-doc",
+  "version": "0.0.1",
+  "description": "Internal doc for SoWell",
+  "main": "index.js",
+  "authors": {
+    "name": "Fandresena",
+    "email": "fandresena@sowellapp.com"
+  },
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
